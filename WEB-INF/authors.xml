@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+<authors>
+    <author>
+    	<name>Jane Doh</name>
+        <email>Jane.Doh@Johndoh.com</email>
+        <name>Jane Doh</name>
+        <password>fabu12</password>
+        <biography>
+			Jane Doh have been working in medical research for many years
+			and started his career freelancing. After a few
+			successful articles earning a job at UTS research.
+		</biography>
+		<dob>1/1/1965</dob>
+		
+    </author>
+   <author>
+   		<name>Scott Mcdott</name>
+   		<email>Scott.Mcdott@news.news</email>
+   		<password>fabu2</password>
+		<biography>
+			Scott Mcdott have been working in game journalism for many years
+			and started his career freelancing. After a few
+			successful articles earning a job at The News Page.
+		</biography>
+		<dob>1/1/1979</dob>
+	</author>
+	
+	  <author>
+   	  	<name>Jack Sparrow</name>
+   	  	<email>Jack.Sparrow@news.news</email>
+   	  	<password>fabu2</password>
+		<biography>
+			Jack Sparrow have been working in game journalism for many years
+			and started his career freelancing. After a few
+			successful articles earning a job at The News Page.
+		</biography>
+		<dob>1/1/1956</dob>
+	</author>
+</authors>
